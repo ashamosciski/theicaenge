@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://heikechail.ari.games/sitemap.xml
